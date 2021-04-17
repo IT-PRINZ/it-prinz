@@ -1,8 +1,8 @@
-- 👋 Hi, I’m ✨duke✨
+- 👋 Hi, I’m ✨vpDDoS✨
 - 👀 I’m interested in ✨IT-Penetrationstests✨
 - 👀 I’m currently learning ✨Linux, ✨Kali, ✨Nethunter
 - 💞️ I’m looking to collaborate on other beginners
-- 📫 To reach me send a PM Private Message ✨@2t-duke✨
+- 📫 To reach me send a PM Private Message ✨@vpDDoS✨
 - 🌱 ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ 👀
 
 <!---
