@@ -1,4 +1,4 @@
-- 👋 Hi, my name is ✨2t-duke✨
+- 👋 Hi, my name is ✨duke✨
 - 👀 I’m interested in ✨ IT-Penetrationstests✨ IT-Security✨
 - 👀 I’m currently learning ✨ Phyton✨ Kali✨ Nethunter✨
 - 👀 I’m looking to collaborate on other beginners
